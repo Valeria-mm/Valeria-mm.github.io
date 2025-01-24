@@ -1,0 +1,28 @@
+<html>
+<head>
+
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+    body {
+        background-color: white;
+      }
+        
+    </style>
+    
+   
+</head>
+<body>
+  <section class="start">
+
+
+  <div> 
+  <div style=position:absolute;color:chocolate;font-size:-webkit-xxx-large;padding-left:800px; padding-top: 200px >привет</div>
+  <img src="1.jpg" alt="">
+   </div>
+   
+   
+   
+    </section>
+</body>
+</html>
