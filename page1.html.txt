@@ -1,9 +1,7 @@
 <html>
 <head>
 
-    <meta charset="UTF-8">
-    <title>Document</title>
-    <style>
+<style>
     body {
         background-color: white;
       }
@@ -17,11 +15,8 @@
 
 
   <div> 
-  <div style=position:absolute;color:chocolate;font-size:-webkit-xxx-large;padding-left:800px; padding-top: 200px >привет</div>
-  <img src="1.jpg" alt="">
-   </div>
-   
-   
+  <img src="1.jpg" alt style="filter: brightness(0.6);">
+      </div>
    
     </section>
 </body>
